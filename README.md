@@ -1,3 +1,3 @@
 # Lettering-JS-Learn
 
-# [Lettring JS Website](http://letteringjs.com/)
+### [Lettering JS Website](http://letteringjs.com/)
